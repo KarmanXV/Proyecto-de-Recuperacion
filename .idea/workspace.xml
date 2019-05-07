@@ -1,0 +1,1040 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3285616b-4b0c-40f6-a94c-147b704c74d8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/10_AP.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/10_CT.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/10_NR.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/10_PI.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/10_RA.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/1_AP.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/1_CT.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/1_NR.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/1_PI.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/1_RA.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/2_AP.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/2_CT.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/2_NR.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/2_PI.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/2_RA.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/3_AP.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/3_CT.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/3_NR.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/3_PI.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/3_RA.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/4_AP.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/4_CT.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/4_NR.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/4_PI.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/4_RA.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/5_AP.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/5_CT.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/5_NR.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/5_PI.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/5_RA.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/6_AP.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/6_CT.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/6_NR.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/6_PI.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/6_RA.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/7_AP.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/7_CT.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/7_NR.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/7_PI.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/7_RA.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/8_AP.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/8_CT.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/8_NR.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/8_PI.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/8_RA.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/9_AP.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/9_CT.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/9_NR.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/9_PI.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/9_RA.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/AM1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/AM10.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/AM2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/AM3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/AM4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/AM5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/AM6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/AM7.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/AM8.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/AM9.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/BMW1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/BMW10.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/BMW2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/BMW3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/BMW4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/BMW5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/BMW6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/BMW7.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/BMW8.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/BMW9.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/BigData1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/BigData10.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/BigData2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/BigData3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/BigData4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/BigData5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/BigData6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/BigData7.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/BigData8.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/BigData9.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/CP1.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/CP10.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/CP2.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/CP3.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/CP4.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/CP5.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/CP6.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/CP7.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/CP8.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/CP9.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/CV-1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/CV-10.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/CV-2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/CV-3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/CV-4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/CV-5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/CV-6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/CV-7.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/CV-8.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/CV-9.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/Cafe1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/Cafe10.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/Cafe2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/Cafe3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/Cafe4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/Cafe5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/Cafe6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/Cafe7.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/Cafe8.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/Cafe9.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/Computadora1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/Computadora10.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/Computadora2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/Computadora3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/Computadora4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/Computadora5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/Computadora6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/Computadora7.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/Computadora8.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/Computadora9.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/Economia1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/Economia10.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/Economia2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/Economia3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/Economia4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/Economia5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/Economia6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/Economia7.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/Economia8.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/Economia9.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/ExpEspacial1.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/ExpEspacial10.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/ExpEspacial2.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/ExpEspacial3.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/ExpEspacial4.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/ExpEspacial5.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/ExpEspacial6.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/ExpEspacial7.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/ExpEspacial8.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/ExpEspacial9.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/FB-1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/FB-10.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/FB-2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/FB-3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/FB-4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/FB-5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/FB-6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/FB-7.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/FB-8.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/FB-9.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/IA1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/IA10.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/IA2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/IA3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/IA4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/IA5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/IA6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/IA7.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/IA8.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/IA9.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/JuegosdeMesa1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/JuegosdeMesa10.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/JuegosdeMesa2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/JuegosdeMesa3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/JuegosdeMesa4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/JuegosdeMesa5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/JuegosdeMesa6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/JuegosdeMesa7.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/JuegosdeMesa8.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/JuegosdeMesa9.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/MC1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/MC10.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/MC2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/MC3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/MC4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/MC5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/MC6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/MC7.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/MC8.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/MC9.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/MM-1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/MM-10.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/MM-2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/MM-3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/MM-4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/MM-5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/MM-6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/MM-7.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/MM-8.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/MM-9.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/NI21.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/NI210.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/NI22.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/NI23.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/NI24.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/NI25.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/NI26.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/NI27.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/NI28.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/NI29.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/NI31.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/NI310.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/NI32.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/NI33.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/NI34.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/NI35.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/NI36.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/NI37.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/NI38.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/NI39.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/NI41.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/NI410.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/NI42.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/NI43.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/NI44.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/NI45.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/NI46.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/NI47.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/NI48.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/NI49.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/P1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/P10.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/P2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/P3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/P4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/P5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/P6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/P7.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/P8.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/P9.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/PI-1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/PI-10.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/PI-2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/PI-3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/PI-4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/PI-5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/PI-6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/PI-7.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/PI-8.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/PI-9.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/PelAnim1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/PelAnim10.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/PelAnim2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/PelAnim3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/PelAnim4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/PelAnim5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/PelAnim6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/PelAnim7.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/PelAnim8.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/PelAnim9.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/Proy1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/Proy10.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/Proy2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/Proy3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/Proy4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/Proy5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/Proy6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/Proy7.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/Proy8.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/Proy9.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/RE1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/RE10.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/RE2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/RE3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/RE4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/RE5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/RE6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/RE7.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/RE8.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/RE9.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/RP-1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/RP-10.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/RP-2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/RP-3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/RP-4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/RP-5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/RP-6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/RP-7.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/RP-8.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/RP-9.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/Robot1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/Robot10.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/Robot2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/Robot3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/Robot4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/Robot5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/Robot6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/Robot7.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/Robot8.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/Robot9.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/T1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/T10.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/T2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/T3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/T4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/T5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/T6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/T7.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/T8.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/T9.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/Teclado1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/Teclado10.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/Teclado2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/Teclado3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/Teclado4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/Teclado5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/Teclado6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/Teclado7.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/Teclado8.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/Teclado9.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/ajedrez1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/ajedrez10.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/ajedrez2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/ajedrez3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/ajedrez4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/ajedrez5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/ajedrez6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/ajedrez7.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/ajedrez8.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/ajedrez9.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/algoritmosgeneticos1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/algoritmosgeneticos10.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/algoritmosgeneticos2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/algoritmosgeneticos3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/algoritmosgeneticos4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/algoritmosgeneticos5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/algoritmosgeneticos6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/algoritmosgeneticos7.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/algoritmosgeneticos8.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/algoritmosgeneticos9.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/allanturing1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/allanturing10.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/allanturing2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/allanturing3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/allanturing4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/allanturing5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/allanturing6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/allanturing7.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/allanturing8.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/allanturing9.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/ambiente1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/ambiente10.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/ambiente2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/ambiente3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/ambiente4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/ambiente5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/ambiente6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/ambiente7.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/ambiente8.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/ambiente9.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/android1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/android10.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/android2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/android3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/android4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/android5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/android6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/android7.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/android8.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/android9.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/aplicacionweb1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/aplicacionweb10.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/aplicacionweb2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/aplicacionweb3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/aplicacionweb4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/aplicacionweb5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/aplicacionweb6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/aplicacionweb7.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/aplicacionweb8.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/aplicacionweb9.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/arteantiguo1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/arteantiguo10.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/arteantiguo2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/arteantiguo3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/arteantiguo4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/arteantiguo5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/arteantiguo6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/arteantiguo7.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/arteantiguo8.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/arteantiguo9.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/arteprecolombino1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/arteprecolombino10.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/arteprecolombino2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/arteprecolombino3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/arteprecolombino4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/arteprecolombino5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/arteprecolombino6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/arteprecolombino7.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/arteprecolombino8.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/arteprecolombino9.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/auto1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/auto10.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/auto2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/auto3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/auto4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/auto5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/auto6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/auto7.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/auto8.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/auto9.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/bioinformatica1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/bioinformatica10.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/bioinformatica2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/bioinformatica3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/bioinformatica4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/bioinformatica5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/bioinformatica6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/bioinformatica7.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/bioinformatica8.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/bioinformatica9.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/bonsais1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/bonsais10.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/bonsais2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/bonsais3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/bonsais4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/bonsais5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/bonsais6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/bonsais7.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/bonsais8.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/bonsais9.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/cadenavalor1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/cadenavalor10.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/cadenavalor2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/cadenavalor3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/cadenavalor4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/cadenavalor5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/cadenavalor6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/cadenavalor7.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/cadenavalor8.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/cadenavalor9.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/ciberseguridad1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/ciberseguridad10.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/ciberseguridad2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/ciberseguridad3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/ciberseguridad4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/ciberseguridad5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/ciberseguridad6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/ciberseguridad7.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/ciberseguridad8.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/ciberseguridad9.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/comida1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/comida10.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/comida2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/comida3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/comida4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/comida5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/comida6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/comida7.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/comida8.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/comida9.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/comptecnubicua1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/comptecnubicua10.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/comptecnubicua2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/comptecnubicua3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/comptecnubicua4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/comptecnubicua5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/comptecnubicua6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/comptecnubicua7.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/comptecnubicua8.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/comptecnubicua9.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/computacionnube1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/computacionnube10.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/computacionnube2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/computacionnube3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/computacionnube4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/computacionnube5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/computacionnube6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/computacionnube7.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/computacionnube8.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/computacionnube9.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/cultura1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/cultura10.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/cultura2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/cultura3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/cultura4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/cultura5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/cultura6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/cultura7.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/cultura8.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/cultura9.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/delitosinformaticos1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/delitosinformaticos10.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/delitosinformaticos2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/delitosinformaticos3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/delitosinformaticos4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/delitosinformaticos5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/delitosinformaticos6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/delitosinformaticos7.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/delitosinformaticos8.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/delitosinformaticos9.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/desarrolloaplicacionesmoviles1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/desarrolloaplicacionesmoviles10.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/desarrolloaplicacionesmoviles2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/desarrolloaplicacionesmoviles3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/desarrolloaplicacionesmoviles4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/desarrolloaplicacionesmoviles5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/desarrolloaplicacionesmoviles6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/desarrolloaplicacionesmoviles7.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/desarrolloaplicacionesmoviles8.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/desarrolloaplicacionesmoviles9.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/desarrollomovil1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/desarrollomovil10.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/desarrollomovil2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/desarrollomovil3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/desarrollomovil4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/desarrollomovil5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/desarrollomovil6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/desarrollomovil7.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/desarrollomovil8.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/desarrollomovil9.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/diccionario1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/diccionario10.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/diccionario2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/diccionario3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/diccionario4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/diccionario5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/diccionario6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/diccionario7.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/diccionario8.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/diccionario9.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/educsexual1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/educsexual10.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/educsexual2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/educsexual3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/educsexual4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/educsexual5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/educsexual6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/educsexual7.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/educsexual8.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/educsexual9.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/emisiones1.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/emisiones10.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/emisiones2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/emisiones3.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/emisiones4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/emisiones5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/emisiones6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/emisiones7.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/emisiones8.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/emisiones9.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/exploracionespacial1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/exploracionespacial10.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/exploracionespacial2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/exploracionespacial3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/exploracionespacial4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/exploracionespacial5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/exploracionespacial6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/exploracionespacial7.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/exploracionespacial8.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/exploracionespacial9.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/fengshui1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/fengshui10.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/fengshui2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/fengshui3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/fengshui4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/fengshui5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/fengshui6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/fengshui7.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/fengshui8.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/fengshui9.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/hacking1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/hacking10.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/hacking2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/hacking3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/hacking4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/hacking5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/hacking6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/hacking7.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/hacking8.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/hacking9.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/lit1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/lit10.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/lit2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/lit3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/lit4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/lit5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/lit6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/lit7.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/lit8.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/lit9.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/logicadifusa1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/logicadifusa10.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/logicadifusa2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/logicadifusa3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/logicadifusa4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/logicadifusa5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/logicadifusa6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/logicadifusa7.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/logicadifusa8.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/logicadifusa9.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/murallachina1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/murallachina10.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/murallachina2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/murallachina3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/murallachina4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/murallachina5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/murallachina6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/murallachina7.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/murallachina8.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/murallachina9.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/musica1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/musica10.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/musica2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/musica3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/musica4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/musica5.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/musica6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/musica7.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/musica8.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/musica9.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/origami1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/origami10.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/origami11.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/origami12.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/origami13.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/origami14.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/origami15.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/origami16.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/origami17.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/origami18.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/origami19.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/origami2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/origami20.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/origami3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/origami4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/origami5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/origami6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/origami7.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/origami8.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/origami9.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/origenuniverso1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/origenuniverso10.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/origenuniverso2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/origenuniverso3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/origenuniverso4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/origenuniverso5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/origenuniverso6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/origenuniverso7.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/origenuniverso8.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/origenuniverso9.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/orquideas1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/orquideas10.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/orquideas2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/orquideas3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/orquideas4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/orquideas5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/orquideas6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/orquideas7.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/orquideas8.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/orquideas9.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/parquesnacionalescr1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/parquesnacionalescr10.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/parquesnacionalescr2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/parquesnacionalescr3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/parquesnacionalescr4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/parquesnacionalescr5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/parquesnacionalescr6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/parquesnacionalescr7.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/parquesnacionalescr8.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/parquesnacionalescr9.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/perro1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/perro10.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/perro2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/perro3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/perro4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/perro5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/perro6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/perro7.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/perro8.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/perro9.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/reciclaje1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/reciclaje10.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/reciclaje2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/reciclaje3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/reciclaje4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/reciclaje5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/reciclaje6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/reciclaje7.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/reciclaje8.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/reciclaje9.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/redesneuronales1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/redesneuronales10.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/redesneuronales2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/redesneuronales3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/redesneuronales4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/redesneuronales5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/redesneuronales6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/redesneuronales7.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/redesneuronales8.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/redesneuronales9.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/ri1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/ri10.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/ri2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/ri3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/ri4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/ri5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/ri6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/ri7.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/ri8.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/ri9.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/tablaturasguitarra1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/tablaturasguitarra10.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/tablaturasguitarra2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/tablaturasguitarra3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/tablaturasguitarra4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/tablaturasguitarra5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/tablaturasguitarra6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/tablaturasguitarra7.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/tablaturasguitarra8.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/tablaturasguitarra9.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/tecno1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/tecno10.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/tecno2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/tecno3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/tecno4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/tecno5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/tecno6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/tecno7.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/tecno8.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/tecno9.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/turismocr1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/turismocr10.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/turismocr2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/turismocr3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/turismocr4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/turismocr5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/turismocr6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/turismocr7.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/turismocr8.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/turismocr9.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/turismoespacial1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/turismoespacial10.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/turismoespacial2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/turismoespacial3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/turismoespacial4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/turismoespacial5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/turismoespacial6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/turismoespacial7.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/turismoespacial8.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/turismoespacial9.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/videojuegos1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/videojuegos10.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/videojuegos2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/videojuegos3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/videojuegos4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/videojuegos5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/videojuegos6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/videojuegos7.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/videojuegos8.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coleccion/videojuegos9.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Recu.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jsoup-1.11.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Cache/HTMLUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Cache/Main.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Cache/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="5" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Cache/HTMLUtils.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="357">
+              <caret line="21" column="5" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/Cache/HTMLUtils.java" />
+        <option value="$PROJECT_DIR$/src/Cache/Main.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-19" />
+    <option name="y" value="4" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Recu" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Recu" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Recu" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Recu" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Recu" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Recu" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Cache" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1557194266703" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Cache.Main" />
+      <module name="Recu" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3285616b-4b0c-40f6-a94c-147b704c74d8" name="Default Changelist" comment="" />
+      <created>1557192216560</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1557192216560</updated>
+      <workItem from="1557192219116" duration="48000" />
+      <workItem from="1557192784432" duration="1944000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1992000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25340393" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3289689" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Maven" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Database" order="8" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/Cache/HTMLUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="5" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Cache/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="5" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Recu</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
