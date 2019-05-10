@@ -1,190 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3285616b-4b0c-40f6-a94c-147b704c74d8" name="Default Changelist" comment="Conexión con el analizador léxico">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jflex-1.6.1/COPYRIGHT" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jflex-1.6.1/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jflex-1.6.1/bin/jflex" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jflex-1.6.1/bin/jflex.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jflex-1.6.1/build.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jflex-1.6.1/changelog.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jflex-1.6.1/doc/COPYRIGHT" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jflex-1.6.1/doc/footnote.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jflex-1.6.1/doc/jflex-black.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jflex-1.6.1/doc/jflex_anttask.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jflex-1.6.1/doc/manual.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jflex-1.6.1/doc/manual.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jflex-1.6.1/doc/manual.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jflex-1.6.1/examples/byaccj/Makefile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jflex-1.6.1/examples/byaccj/README" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jflex-1.6.1/examples/byaccj/calc.flex" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jflex-1.6.1/examples/byaccj/calc.y" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jflex-1.6.1/examples/cup/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jflex-1.6.1/examples/cup/Makefile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jflex-1.6.1/examples/cup/README" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jflex-1.6.1/examples/cup/lcalc.flex" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jflex-1.6.1/examples/cup/output.good" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jflex-1.6.1/examples/cup/test.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jflex-1.6.1/examples/cup/ycalc.cup" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jflex-1.6.1/examples/interpreter/AST.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jflex-1.6.1/examples/interpreter/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jflex-1.6.1/examples/interpreter/Makefile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jflex-1.6.1/examples/interpreter/README" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jflex-1.6.1/examples/interpreter/STEfun.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jflex-1.6.1/examples/interpreter/STEvar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jflex-1.6.1/examples/interpreter/SymTab.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jflex-1.6.1/examples/interpreter/SymtabEntry.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jflex-1.6.1/examples/interpreter/Tboolexp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jflex-1.6.1/examples/interpreter/Tdekl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jflex-1.6.1/examples/interpreter/Tdekllist.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jflex-1.6.1/examples/interpreter/Texp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jflex-1.6.1/examples/interpreter/Texpinfix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jflex-1.6.1/examples/interpreter/Texplist.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jflex-1.6.1/examples/interpreter/Tfun.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jflex-1.6.1/examples/interpreter/Tident.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jflex-1.6.1/examples/interpreter/Tifthenelse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jflex-1.6.1/examples/interpreter/Tnumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jflex-1.6.1/examples/interpreter/Tparlist.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jflex-1.6.1/examples/interpreter/Tprogram.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jflex-1.6.1/examples/interpreter/Tuminus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jflex-1.6.1/examples/interpreter/build.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jflex-1.6.1/examples/interpreter/example.as" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jflex-1.6.1/examples/interpreter/output.good" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jflex-1.6.1/examples/interpreter/parser.cup" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jflex-1.6.1/examples/interpreter/scanner.flex" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jflex-1.6.1/examples/java/JavaParser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jflex-1.6.1/examples/java/JavaSymbol.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jflex-1.6.1/examples/java/Makefile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jflex-1.6.1/examples/java/README" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jflex-1.6.1/examples/java/TestLexer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jflex-1.6.1/examples/java/build.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jflex-1.6.1/examples/java/java.flex" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jflex-1.6.1/examples/java/java12.cup" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jflex-1.6.1/examples/java/lexer-output.good" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jflex-1.6.1/examples/java/unicode.flex" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jflex-1.6.1/examples/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jflex-1.6.1/examples/simple-maven/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jflex-1.6.1/examples/simple-maven/src/README" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jflex-1.6.1/examples/simple-maven/src/main/java/Utility.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jflex-1.6.1/examples/simple-maven/src/main/java/Yytoken.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jflex-1.6.1/examples/simple-maven/src/main/jflex/simple.flex" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jflex-1.6.1/examples/simple-maven/src/site/apt/usage.apt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jflex-1.6.1/examples/simple-maven/src/site/site.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jflex-1.6.1/examples/simple-maven/src/test/java/YylexTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jflex-1.6.1/examples/simple-maven/src/test/resources/output.good" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jflex-1.6.1/examples/simple-maven/src/test/resources/test.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jflex-1.6.1/examples/standalone-maven/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jflex-1.6.1/examples/standalone-maven/src/main/jflex/standalone.flex" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jflex-1.6.1/examples/standalone-maven/src/test/java/de/jflex/example/standalone/SubstTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jflex-1.6.1/examples/standalone-maven/src/test/resources/sample.expected" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jflex-1.6.1/examples/standalone-maven/src/test/resources/sample.in" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jflex-1.6.1/examples/zero-reader/FunkyReader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jflex-1.6.1/examples/zero-reader/Makefile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jflex-1.6.1/examples/zero-reader/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jflex-1.6.1/examples/zero-reader/ZeroReader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jflex-1.6.1/examples/zero-reader/lexer-output.good" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jflex-1.6.1/examples/zero-reader/test-input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jflex-1.6.1/examples/zero-reader/zero-lexer.jflex" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jflex-1.6.1/lib/Lexer.jflex" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jflex-1.6.1/lib/comando.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jflex-1.6.1/lib/java-cup-11a.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jflex-1.6.1/lib/jflex-1.6.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jflex-1.6.1/lib/jflex-mode.el" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jflex-1.6.1/lib/jflex.vim" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jflex-1.6.1/parent.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jflex-1.6.1/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jflex-1.6.1/src/main/config/pmd/ruleset.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jflex-1.6.1/src/main/cup/LexParse.cup" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jflex-1.6.1/src/main/java/java_cup/runtime/ComplexSymbolFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jflex-1.6.1/src/main/java/java_cup/runtime/DefaultSymbolFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jflex-1.6.1/src/main/java/java_cup/runtime/Scanner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jflex-1.6.1/src/main/java/java_cup/runtime/Symbol.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jflex-1.6.1/src/main/java/java_cup/runtime/SymbolFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jflex-1.6.1/src/main/java/java_cup/runtime/lr_parser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jflex-1.6.1/src/main/java/java_cup/runtime/virtual_parse_stack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jflex-1.6.1/src/main/java/jflex/Action.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jflex-1.6.1/src/main/java/jflex/CharClassException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jflex-1.6.1/src/main/java/jflex/CharClassInterval.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jflex-1.6.1/src/main/java/jflex/CharClasses.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jflex-1.6.1/src/main/java/jflex/CharSet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jflex-1.6.1/src/main/java/jflex/CharSetEnumerator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jflex-1.6.1/src/main/java/jflex/CountEmitter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jflex-1.6.1/src/main/java/jflex/DFA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jflex-1.6.1/src/main/java/jflex/EOFActions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jflex-1.6.1/src/main/java/jflex/Emitter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jflex-1.6.1/src/main/java/jflex/ErrorMessages.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jflex-1.6.1/src/main/java/jflex/GeneratorException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jflex-1.6.1/src/main/java/jflex/HiLowEmitter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jflex-1.6.1/src/main/java/jflex/IntCharSet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jflex-1.6.1/src/main/java/jflex/IntPair.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jflex-1.6.1/src/main/java/jflex/Interval.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jflex-1.6.1/src/main/java/jflex/LexicalStates.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jflex-1.6.1/src/main/java/jflex/MacroException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jflex-1.6.1/src/main/java/jflex/Macros.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jflex-1.6.1/src/main/java/jflex/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jflex-1.6.1/src/main/java/jflex/NFA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jflex-1.6.1/src/main/java/jflex/Options.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jflex-1.6.1/src/main/java/jflex/Out.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jflex-1.6.1/src/main/java/jflex/PackEmitter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jflex-1.6.1/src/main/java/jflex/RegExp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jflex-1.6.1/src/main/java/jflex/RegExp1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jflex-1.6.1/src/main/java/jflex/RegExp2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jflex-1.6.1/src/main/java/jflex/RegExps.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jflex-1.6.1/src/main/java/jflex/ScannerException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jflex-1.6.1/src/main/java/jflex/SemCheck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jflex-1.6.1/src/main/java/jflex/SilentExit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jflex-1.6.1/src/main/java/jflex/Skeleton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jflex-1.6.1/src/main/java/jflex/StatePairList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jflex-1.6.1/src/main/java/jflex/StateSet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jflex-1.6.1/src/main/java/jflex/StateSetEnumerator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jflex-1.6.1/src/main/java/jflex/StdOutWriter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jflex-1.6.1/src/main/java/jflex/Timer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jflex-1.6.1/src/main/java/jflex/anttask/JFlexTask.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jflex-1.6.1/src/main/java/jflex/gui/GeneratorThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jflex-1.6.1/src/main/java/jflex/gui/GridPanel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jflex-1.6.1/src/main/java/jflex/gui/GridPanelConstraint.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jflex-1.6.1/src/main/java/jflex/gui/Handles.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jflex-1.6.1/src/main/java/jflex/gui/MainFrame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jflex-1.6.1/src/main/java/jflex/gui/OptionsDialog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jflex-1.6.1/src/main/java/jflex/unicode/UnicodeProperties.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jflex-1.6.1/src/main/java/jflex/unicode/data/Unicode_1_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jflex-1.6.1/src/main/java/jflex/unicode/data/Unicode_2_0.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jflex-1.6.1/src/main/java/jflex/unicode/data/Unicode_2_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jflex-1.6.1/src/main/java/jflex/unicode/data/Unicode_3_0.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jflex-1.6.1/src/main/java/jflex/unicode/data/Unicode_3_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jflex-1.6.1/src/main/java/jflex/unicode/data/Unicode_3_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jflex-1.6.1/src/main/java/jflex/unicode/data/Unicode_4_0.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jflex-1.6.1/src/main/java/jflex/unicode/data/Unicode_4_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jflex-1.6.1/src/main/java/jflex/unicode/data/Unicode_5_0.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jflex-1.6.1/src/main/java/jflex/unicode/data/Unicode_5_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jflex-1.6.1/src/main/java/jflex/unicode/data/Unicode_5_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jflex-1.6.1/src/main/java/jflex/unicode/data/Unicode_6_0.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jflex-1.6.1/src/main/java/jflex/unicode/data/Unicode_6_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jflex-1.6.1/src/main/java/jflex/unicode/data/Unicode_6_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jflex-1.6.1/src/main/java/jflex/unicode/data/Unicode_6_3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jflex-1.6.1/src/main/java/jflex/unicode/data/Unicode_7_0.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jflex-1.6.1/src/main/jflex/LexScan.flex" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jflex-1.6.1/src/main/jflex/skeleton.nested" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jflex-1.6.1/src/main/jflex/skeleton.nested-1.6.0" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jflex-1.6.1/src/main/resources/jflex/Messages.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jflex-1.6.1/src/main/resources/jflex/skeleton.default" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jflex-1.6.1/src/test/java/jflex/AntTaskTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jflex-1.6.1/src/test/java/jflex/CharClassesTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jflex-1.6.1/src/test/java/jflex/EmitterTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jflex-1.6.1/src/test/java/jflex/IntCharSetTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jflex-1.6.1/src/test/java/jflex/PackEmitterTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jflex-1.6.1/src/test/java/jflex/RegExpTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jflex-1.6.1/src/test/java/jflex/SkeletonTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jflex-1.6.1/src/test/java/jflex/UnicodePropertiesTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jflex-1.6.1/src/test/resources/jflex/LexScan-test.flex" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jflex-1.6.1/src/test/resources/jflex/simple.flex" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Cache/Lexer.java" afterDir="false" />
+    <list default="true" id="3285616b-4b0c-40f6-a94c-147b704c74d8" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jflex-1.6.1/lib/Lexer.jflex" beforeDir="false" afterPath="$PROJECT_DIR$/jflex-1.6.1/lib/Lexer.jflex" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Recu/Cache/HTMLUtils.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Recu/Cache/HTMLUtils.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Recu/Cache/Lexer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Recu/Cache/Lexer.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Recu/Cache/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Recu/Cache/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Cache/HTMLUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cache/HTMLUtils.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Cache/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cache/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Recu/META-INF/Recu.kotlin_module" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -198,8 +21,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Cache/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-46">
-              <caret line="10" column="5" lean-forward="true" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+            <state relative-caret-position="357">
+              <caret line="21" column="8" selection-start-line="21" selection-start-column="8" selection-end-line="21" selection-end-column="8" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -207,20 +30,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Cache/Lexer.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/jflex-1.6.1/lib/Lexer.jflex">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="38097">
-              <caret line="2337" column="38" selection-start-line="2337" selection-start-column="30" selection-end-line="2337" selection-end-column="38" />
+            <state relative-caret-position="253">
+              <caret line="33" column="32" selection-start-line="33" selection-start-column="32" selection-end-line="33" selection-end-column="32" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Cache/HTMLUtils.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="158">
-              <caret line="15" column="17" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
+            <state>
+              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -247,22 +70,36 @@
       <find>zzAtE</find>
       <find>Map</find>
       <find>Contador</find>
+      <find>System.</find>
+      <find>System.o</find>
+      <find>yytext</find>
+      <find>-</find>
+      <find>readS</find>
+      <find>contador</find>
+      <find>qué</find>
+      <find>á</find>
+      <find>é</find>
+      <find>í</find>
+      <find>ó</find>
+      <find>ú</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="SET_USER_NAME_GLOBALLY" value="false" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/LexicalAnalizer/Lexer.java" />
+        <option value="$PROJECT_DIR$/src/Cache/HTMLUtils.java" />
         <option value="$PROJECT_DIR$/src/Cache/Lexer.java" />
         <option value="$PROJECT_DIR$/src/Cache/Main.java" />
-        <option value="$PROJECT_DIR$/src/Cache/HTMLUtils.java" />
+        <option value="$PROJECT_DIR$/jflex-1.6.1/lib/Lexer.jflex" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="1382" />
@@ -274,33 +111,33 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="Recu" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Recu" type="462c0819:PsiDirectoryNode" />
+              <item name="Proyecto-de-Recuperacion" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Proyecto-de-Recuperacion" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Recu" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Recu" type="462c0819:PsiDirectoryNode" />
+              <item name="Proyecto-de-Recuperacion" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Proyecto-de-Recuperacion" type="462c0819:PsiDirectoryNode" />
               <item name="jflex-1.6.1" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Recu" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Recu" type="462c0819:PsiDirectoryNode" />
+              <item name="Proyecto-de-Recuperacion" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Proyecto-de-Recuperacion" type="462c0819:PsiDirectoryNode" />
               <item name="jflex-1.6.1" type="462c0819:PsiDirectoryNode" />
               <item name="lib" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Recu" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Recu" type="462c0819:PsiDirectoryNode" />
+              <item name="Proyecto-de-Recuperacion" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Proyecto-de-Recuperacion" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Recu" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Recu" type="462c0819:PsiDirectoryNode" />
+              <item name="Proyecto-de-Recuperacion" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Proyecto-de-Recuperacion" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="Cache" type="462c0819:PsiDirectoryNode" />
             </path>
@@ -308,17 +145,22 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1557378130000" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1557522987445" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\B55519\Downloads\Proyecto-de-Recuperacion\src\Cache" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -363,15 +205,24 @@
       <workItem from="1557192784432" duration="1944000" />
       <workItem from="1557359234095" duration="11950000" />
     </task>
+    <task id="LOCAL-00001" summary="Conexión con el analizador léxico con tildes y apertura de signos">
+      <created>1557522480861</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1557522480861</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
     <option name="totallyTimeSpent" value="13942000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24054463" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17217484" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -380,8 +231,8 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3289689" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3289689" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32827735" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3997833" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -390,7 +241,7 @@
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="12" weight="0.3289689" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32827735" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -407,13 +258,22 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Conexión con el analizador léxico" />
-    <option name="LAST_COMMIT_MESSAGE" value="Conexión con el analizador léxico" />
+    <MESSAGE value="Conexión con el analizador léxico con tildes y apertura de signos" />
+    <option name="LAST_COMMIT_MESSAGE" value="Conexión con el analizador léxico con tildes y apertura de signos" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="yytext()" />
+      </configuration>
+    </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Cache/Yylex.java">
+    <entry file="file://$PROJECT_DIR$/src/Cache/Yylex.java" />
+    <entry file="file://$PROJECT_DIR$/src/Cache/HTMLUtils.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="37740">
-          <caret line="2230" column="25" selection-start-line="2230" selection-start-column="21" selection-end-line="2230" selection-end-column="25" />
+        <state>
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -422,28 +282,36 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Cache/Lexer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38097">
-          <caret line="2337" column="38" selection-start-line="2337" selection-start-column="30" selection-end-line="2337" selection-end-column="38" />
+        <state relative-caret-position="272">
+          <caret line="78" column="43" lean-forward="true" selection-start-line="78" selection-start-column="43" selection-end-line="78" selection-end-column="43" />
+          <folding>
+            <element signature="e#96382#96383#0" expanded="true" />
+            <element signature="e#96459#96460#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Cache/Lexer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="333">
+          <caret line="1724" column="40" selection-start-line="1724" selection-start-column="32" selection-end-line="1724" selection-end-column="40" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Cache/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-46">
-          <caret line="10" column="5" lean-forward="true" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+        <state relative-caret-position="357">
+          <caret line="21" column="8" selection-start-line="21" selection-start-column="8" selection-end-line="21" selection-end-column="8" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Cache/HTMLUtils.java">
+    <entry file="file://$PROJECT_DIR$/jflex-1.6.1/lib/Lexer.jflex">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="158">
-          <caret line="15" column="17" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="253">
+          <caret line="33" column="32" selection-start-line="33" selection-start-column="32" selection-end-line="33" selection-end-column="32" />
         </state>
       </provider>
     </entry>
