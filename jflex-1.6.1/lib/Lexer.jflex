@@ -18,7 +18,7 @@ yybegin(YYINITIAL);
 
 %{
 	public Map<String, Integer> ContadorPalabras = new HashMap<String, Integer>();
-	public void readString(String text) throws IOException {
+	public void readString() throws IOException {
         while (!zzAtEOF)
           yylex();
     }
@@ -26,7 +26,7 @@ yybegin(YYINITIAL);
 
 DIGITO 			= 		\-?\d+(\.\d+)?
 FECHA 			= 		\d{1,2}\/\d{1,2}\/(\d{4}|\d{2})
-SIGNO 			= 		\!|\"|\# |\$|\%|\&|\/|\(|\)|\=|\?|\¡|\||\°|\'|\¿|\´|\+|\¨|\*|\{|\}|\[|\]|\,|\.|\-|\;|\:|\_|\<|\>|\¬|\\|\~|\^|\`
+SIGNO 			= 		\xB7|\.|\!|\"|\# |\$|\%|\/|\(|\)|\=|\?|\xA1|\||\°|\'|\xBF|\´|\+|\¨|\*|\{|\}|\[|\]|\,|\.|\-|\;|\:|\_|\<|\>|\¬|\\|\~|\^|\`
 EMAIL			= 		([a-zA-Z0-9_\-\.]+)@([a-zA-Z0-9_\-\.]+)\.([a-zA-Z]{2,5})
 ARTICULO 		= 		el|la|los|las|un|una|unos|unas
 PREPOSICION 	= 		a|al|ante|bajo|con|contra|de|del|desde|en|entre|hacia|hasta|mediante|para|por|según|sin|sobre|tras|versus
@@ -45,9 +45,16 @@ CANTIDAD 		= 		algo|bastante|demasiado|poco|poquito|más|menos|suficiente|mucho|
 MANERA 			= 		así|bien|deprisa|alto|bajo|rápido|despacio|lento|veloz|difícilmente|al pie de la letra|estupendamente|fácilmente|especialmente|mal|mejor|peor|más o menos
 INDEFINIDO 		= 		algún|alguna|algunos|algunas|cierto|cierta|ciertos|ciertas|todo|toda|todos|todas|poco|poca|pocos|pocas|cada|cualquier|todo|toda|todos|todas|alguno|mucho|mucha|muchos|muchas|nada|nadie|cualquiera|algo|otro|otra|otros|otras
 INTERJECCION 	= 		híjole|ah|oh|eh|uh|hey|wow|guau|bah|ay|zas|arre|ea|sh|epa|huy|uf|ojalá|puaj
-TERMINO			=		[a-zá-úñÑ]+
+TERMINO			=		\p{Latin}+
+ESPACIO         =       \s
+
 
 %%
+{ESPACIO}
+		{
+			//return symbol(sym.ESPACIO);
+		}
+
 
 {DIGITO}
 		{

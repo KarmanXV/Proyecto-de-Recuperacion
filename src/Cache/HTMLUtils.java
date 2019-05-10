@@ -1,6 +1,7 @@
 package Cache;
 
 import org.jsoup.Jsoup;
+import org.jsoup.nodes.Document;
 
 import java.io.*;
 
@@ -22,9 +23,9 @@ public class HTMLUtils
 
         //METODO 2
         File input = new File(fileDir);
-        String textOnly = Jsoup.parse(input, "UTF-8", "").text();
-
+        Document doc = Jsoup.parse(input, "UTF-8", "");
+        String text = doc.text();
         //Ambos devuelven textOnly
-        return textOnly;
+        return text;
     }
 }
